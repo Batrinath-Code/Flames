@@ -43,8 +43,7 @@ function calculateRelationship(name1, name2) {
     }
   }
 
-  console.log(flames)
-  // alert(flames)
+  alert(flames)
 
 }
 
